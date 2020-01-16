@@ -3,10 +3,9 @@ title: "如何用hugo搭建个人博客"
 date: 2020-01-15T20:44:38+08:00
 draft: false
 ---
-
 # 
 ## 
-### 今天用hugo搭建了自己的博客，给大家分享一下过程
+### 今天用hugo搭建了自己的博客，分享一下过程,多多指教哦
 主要有以下4个部分
 <!--more-->
 ![2.png](https://i.loli.net/2020/01/15/fWC7ouYVB1IDsya.png)

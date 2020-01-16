@@ -8,6 +8,7 @@ draft: false
 
 # 今天用hugo搭建了自己的博客，给大家分享一下过程。
 主要有以下4个部分
+<!--more-->
 ![2.png](https://i.loli.net/2020/01/15/fWC7ouYVB1IDsya.png)
 1. hugo安装
    
@@ -42,6 +43,7 @@ draft: false
 
 好开心，再接再厉！
 ![1.png](https://i.loli.net/2020/01/15/zkGOpBNFyLm7gnY.png)
+
    
 
 
